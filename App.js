@@ -1,6 +1,6 @@
 var React = require('react');
 var IntlMixin = require('react-intl');
-var i18nLoader = require('../i18n');
+var i18nLoader = require('./i18n');
 
 var Hello = React.createClass({
   mixins: [IntlMixin],
@@ -25,8 +25,6 @@ var Hello = React.createClass({
           <option value="es">Español</option>
           <option value="de">Deutsch</option>
         </select>
-
-
       </div>
     );
   }

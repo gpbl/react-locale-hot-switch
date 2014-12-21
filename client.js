@@ -2,8 +2,8 @@ var React = require('react');
 var i18nLoader = require('./i18n');
 
 function renderApp(i18n) {
-  var Hello = require('./components/Hello.js');
-  React.render(<Hello {...i18n} />, document.body);
+  var App = require('./App.js');
+  React.render(<App {...i18n} />, document.body);
 }
 
 var defaultLocale = 'en';
