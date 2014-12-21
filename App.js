@@ -2,7 +2,7 @@ var React = require('react');
 var IntlMixin = require('react-intl');
 var i18nLoader = require('./i18n');
 
-var Hello = React.createClass({
+var App = React.createClass({
   mixins: [IntlMixin],
 
   handleLocaleChange(e) {
@@ -31,4 +31,4 @@ var Hello = React.createClass({
 
 });
 
-module.exports = Hello;
+module.exports = App;
