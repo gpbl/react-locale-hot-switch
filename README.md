@@ -3,7 +3,7 @@ react-locale-hot-switch
 
 This small React web app let the user change the UI language without reloading the page. 
 
-The localized strings are requested only when the user switches the language
+The localized strings are loaded only when the user switches the language
 
 * Implements [react-intl](https://github.com/yahoo/react-intl)
 * Loads the required [intl](https://www.npmjs.com/package/intl) polyfills on Safari and IE < 10
