@@ -9,6 +9,8 @@ The localized strings are loaded only when the user switches the language
 * Loads the required [intl](https://www.npmjs.com/package/intl) polyfills on Safari and IE < 10
 * Uses [webpack](http://webpack.github.io) for splitting the localized data in chunks
 
+Please note this is an EXPERIMENT: see also [this issue](https://github.com/gpbl/react-locale-hot-switch/issues/1).
+
 ```bash
 git clone https://github.com/gpbl/react-locale-hot-switch.git
 cd react-locale-hot-switch
