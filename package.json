@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "client.js",
+  "repository": "https://github.com/gpbl/react-locale-hot-switch",
   "dependencies": {
     "connect": "^3.3.3",
     "intl": "^0.1.4",
