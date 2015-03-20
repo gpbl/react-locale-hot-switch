@@ -1,6 +1,6 @@
 {
   "name": "locale-hot-switch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "client.js",
   "repository": "https://github.com/gpbl/react-locale-hot-switch",
@@ -12,8 +12,8 @@
     "react-intl": "^1.2.0",
     "script-loader": "^0.6.1",
     "serve-static": "^1.7.1",
-    "webpack": "^1.4.13",
-    "webpack-dev-server": "^1.6.6"
+    "webpack": "^1.7.3",
+    "webpack-dev-server": "^1.7.0"
   },
   "devDependencies": {},
   "scripts": {
