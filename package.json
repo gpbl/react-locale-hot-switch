@@ -9,7 +9,7 @@
     "intl": "^0.1.4",
     "jsx-loader": "^0.12.2",
     "react": "^0.12.2",
-    "react-intl": "^1.0.2",
+    "react-intl": "^1.2.0",
     "script-loader": "^0.6.1",
     "serve-static": "^1.7.1",
     "webpack": "^1.4.13",
